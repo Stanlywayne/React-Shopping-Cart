@@ -2,8 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`
@@ -14,10 +12,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `npm test`
+## List Products
+![ListProducts](https://user-images.githubusercontent.com/79534622/110486876-13b62d00-8113-11eb-8b81-5ca93b23e707.PNG)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Cart Screen
+![Cart](https://user-images.githubusercontent.com/79534622/110486936-203a8580-8113-11eb-80d3-6bc9791e1fc5.PNG)
+
 
 ### `npm run build`
 
@@ -26,11 +26,3 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
