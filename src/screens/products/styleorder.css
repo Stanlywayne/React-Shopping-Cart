@@ -1,0 +1,41 @@
+.container {
+  padding: 100px 0;
+}
+div.gallery {
+  display:block;
+    margin: 16px;
+    border: 1px solid black;
+    float: left;
+    width: 180px;
+    padding: 10px;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    font-weight: normal;
+    font-size: 16px;
+    padding: 15px;
+    text-align: center;
+    color:black;
+    line-height: 25px;
+    margin-bottom: 8px;
+  }
+  .button{
+   text-align: center;
+  }
+  .quantity{
+      height: 24px;
+      width: 48px;
+      text-align: center;
+      margin-left:  50px;
+      border-radius: 10%;
+      border: 10% black;
+      margin-bottom: 10px;
+  }

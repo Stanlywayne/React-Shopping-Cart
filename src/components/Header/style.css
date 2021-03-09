@@ -1,0 +1,63 @@
+.header{
+  display: flex;
+  background-color: black;
+  width:100%;
+  position: fixed;
+  top:0%;
+}
+.text{
+    position: relative;
+    left:50px;
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.list{
+    display: flex; 
+    padding: 12px;  
+}
+.list h2 {
+  margin-top: 15px;
+}
+h2 a:hover{
+  color:white;
+}
+.logo{
+  display: flex;
+  position: relative;
+  margin-left: 3%;
+  z-index: 99;
+  padding: 15px;
+}
+ul.remo li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 15px;
+    position: relative;
+    left: 30px;
+}
+ .cart{
+    margin: 10px;
+ }
+ .cart-pos{
+    display: flex;
+    margin-left:40%;
+    position: relative;
+    z-index: 99;
+    padding: 20px;
+ }
+ .cartinfo{
+    font-size: 14px;
+    color: white;
+    text-align: right;
+ }
+tr {
+    padding: 0;
+    margin: 0;
+}
+td {
+    padding: 0 4px;
+    line-height: 16px;
+} 
+a:visited{
+  color: white;
+}

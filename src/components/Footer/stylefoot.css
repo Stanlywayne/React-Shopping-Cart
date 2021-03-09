@@ -1,0 +1,19 @@
+.footer{
+    position: fixed;
+    background-color: rgb(53, 53, 53);
+    width:100%;
+    bottom:0%;
+}
+.text{
+    position: relative;
+    left:50px;
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.list{
+    display: flex; 
+    padding: 12px;  
+}
+.position{
+    margin-left:35rem;
+}
